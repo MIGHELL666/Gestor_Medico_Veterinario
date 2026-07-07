@@ -1,3 +1,5 @@
+<img src="banner.png" width="300" />
+
 # 🐾 Sistema de Registro de Mascotas y Propietarios - Veterinaria Corazón Canino
 
 ¡Bienvenido al repositorio del proyecto desarrollado durante mis estancias universitarias para la **Veterinaria Corazón Canino**! Este es un sistema de escritorio robusto y eficiente diseñado para la digitalización, automatización y optimización de los procesos administrativos de la clínica.
@@ -32,14 +34,3 @@ El principal objetivo de este proyecto fue reemplazar los flujos de trabajo trad
 5. **Búsqueda Avanzada:** Filtros rápidos por nombre de propietario, nombre de la mascota, número de teléfono o ID para optimizar la atención en ventanilla.
 
 ---
-
-## 📁 Estructura General del Repositorio
-
-```text
-├── src/                  # Código fuente de la aplicación en C#
-│   ├── Modelos/          # Clases y estructuras de datos (Mascota, Propietario)
-│   ├── Vistas/           # Interfaces gráficas de usuario (Formularios)
-│   └── Controladores/    # Lógica de negocio y manejo de eventos
-├── docs/                 # Documentación del proyecto y manuales de usuario
-├── assets/               # Capturas de pantalla e imágenes de la aplicación
-└── README.md             # Esta presentación del proyecto
