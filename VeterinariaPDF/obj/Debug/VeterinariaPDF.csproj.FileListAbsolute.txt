@@ -1,0 +1,39 @@
+C:\Users\usuario 1\Desktop\aplicacion de veterinaria\VeterinariaPDF\VeterinariaPDF\obj\Debug\VeterinariaPDF.csproj.AssemblyReference.cache
+C:\Users\usuario 1\Desktop\aplicacion de veterinaria\VeterinariaPDF\VeterinariaPDF\obj\Debug\VeterinariaPDF.Properties.Resources.resources
+C:\Users\usuario 1\Desktop\aplicacion de veterinaria\VeterinariaPDF\VeterinariaPDF\obj\Debug\VeterinariaPDF.csproj.GenerateResource.cache
+C:\Users\usuario 1\Desktop\aplicacion de veterinaria\VeterinariaPDF\VeterinariaPDF\obj\Debug\VeterinariaPDF.csproj.CoreCompileInputs.cache
+C:\Users\usuario 1\Desktop\aplicacion de veterinaria\VeterinariaPDF\VeterinariaPDF\obj\Debug\VeterinariaPDF.Form1.resources
+C:\Users\usuario 1\Desktop\aplicacion de veterinaria\VeterinariaPDF\VeterinariaPDF\bin\Debug\VeterinariaPDF.exe.config
+C:\Users\usuario 1\Desktop\aplicacion de veterinaria\VeterinariaPDF\VeterinariaPDF\bin\Debug\VeterinariaPDF.exe
+C:\Users\usuario 1\Desktop\aplicacion de veterinaria\VeterinariaPDF\VeterinariaPDF\bin\Debug\VeterinariaPDF.pdb
+C:\Users\usuario 1\Desktop\aplicacion de veterinaria\VeterinariaPDF\VeterinariaPDF\bin\Debug\PdfSharp.Charting.dll
+C:\Users\usuario 1\Desktop\aplicacion de veterinaria\VeterinariaPDF\VeterinariaPDF\bin\Debug\PdfSharp.dll
+C:\Users\usuario 1\Desktop\aplicacion de veterinaria\VeterinariaPDF\VeterinariaPDF\bin\Debug\PdfSharp.xml
+C:\Users\usuario 1\Desktop\aplicacion de veterinaria\VeterinariaPDF\VeterinariaPDF\bin\Debug\PdfSharp.Charting.xml
+C:\Users\usuario 1\Desktop\aplicacion de veterinaria\VeterinariaPDF\VeterinariaPDF\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\usuario 1\Desktop\aplicacion de veterinaria\VeterinariaPDF\VeterinariaPDF\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\usuario 1\Desktop\aplicacion de veterinaria\VeterinariaPDF\VeterinariaPDF\obj\Debug\Veterina.B987B050.Up2Date
+C:\Users\usuario 1\Desktop\aplicacion de veterinaria\VeterinariaPDF\VeterinariaPDF\obj\Debug\VeterinariaPDF.exe
+C:\Users\usuario 1\Desktop\aplicacion de veterinaria\VeterinariaPDF\VeterinariaPDF\obj\Debug\VeterinariaPDF.pdb
+C:\Users\diego\OneDrive\Desktop\UNI\7to cuatri\Estancias 2\aplicacion de veterinaria\VeterinariaPDF\VeterinariaPDF\obj\Debug\VeterinariaPDF.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Desktop\UNI\7to cuatri\Estancias 2\aplicacion de veterinaria\VeterinariaPDF\VeterinariaPDF\obj\Debug\VeterinariaPDF.exe.config
+C:\Users\diego\OneDrive\Desktop\UNI\7to cuatri\Estancias 2\aplicacion de veterinaria\VeterinariaPDF\VeterinariaPDF\obj\Debug\VeterinariaPDF.exe
+C:\Users\diego\OneDrive\Desktop\UNI\7to cuatri\Estancias 2\aplicacion de veterinaria\VeterinariaPDF\VeterinariaPDF\obj\Debug\VeterinariaPDF.pdb
+C:\Users\diego\OneDrive\Desktop\UNI\7to cuatri\Estancias 2\aplicacion de veterinaria\VeterinariaPDF\VeterinariaPDF\bin\Debug\VeterinariaPDF.exe.config
+C:\Users\diego\OneDrive\Desktop\UNI\7to cuatri\Estancias 2\aplicacion de veterinaria\VeterinariaPDF\VeterinariaPDF\bin\Debug\VeterinariaPDF.exe
+C:\Users\diego\OneDrive\Desktop\UNI\7to cuatri\Estancias 2\aplicacion de veterinaria\VeterinariaPDF\VeterinariaPDF\bin\Debug\VeterinariaPDF.pdb
+C:\Users\diego\OneDrive\Desktop\UNI\7to cuatri\Estancias 2\aplicacion de veterinaria\VeterinariaPDF\VeterinariaPDF\bin\Debug\PdfSharp.Charting.dll
+C:\Users\diego\OneDrive\Desktop\UNI\7to cuatri\Estancias 2\aplicacion de veterinaria\VeterinariaPDF\VeterinariaPDF\bin\Debug\PdfSharp.dll
+C:\Users\diego\OneDrive\Desktop\UNI\7to cuatri\Estancias 2\aplicacion de veterinaria\VeterinariaPDF\VeterinariaPDF\bin\Debug\PdfSharp.xml
+C:\Users\diego\OneDrive\Desktop\UNI\7to cuatri\Estancias 2\aplicacion de veterinaria\VeterinariaPDF\VeterinariaPDF\bin\Debug\PdfSharp.Charting.xml
+C:\Users\diego\OneDrive\Desktop\UNI\7to cuatri\Estancias 2\aplicacion de veterinaria\VeterinariaPDF\VeterinariaPDF\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\diego\OneDrive\Desktop\UNI\7to cuatri\Estancias 2\aplicacion de veterinaria\VeterinariaPDF\VeterinariaPDF\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\diego\OneDrive\Desktop\UNI\7to cuatri\Estancias 2\aplicacion de veterinaria\VeterinariaPDF\VeterinariaPDF\obj\Debug\VeterinariaPDF.Form1.resources
+C:\Users\diego\OneDrive\Desktop\UNI\7to cuatri\Estancias 2\aplicacion de veterinaria\VeterinariaPDF\VeterinariaPDF\obj\Debug\VeterinariaPDF.Properties.Resources.resources
+C:\Users\diego\OneDrive\Desktop\UNI\7to cuatri\Estancias 2\aplicacion de veterinaria\VeterinariaPDF\VeterinariaPDF\obj\Debug\VeterinariaPDF.csproj.GenerateResource.cache
+C:\Users\diego\OneDrive\Desktop\UNI\7to cuatri\Estancias 2\aplicacion de veterinaria\VeterinariaPDF\VeterinariaPDF\obj\Debug\VeterinariaPDF.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Desktop\UNI\7to cuatri\Estancias 2\aplicacion de veterinaria\VeterinariaPDF\VeterinariaPDF\obj\Debug\Veterina.B987B050.Up2Date
+C:\Users\diego\OneDrive\Desktop\UNI\7to cuatri\Estancias 2\aplicacion de veterinaria\VeterinariaPDF\VeterinariaPDF\bin\Debug\VeterinariaPDF.exe.manifest
+C:\Users\diego\OneDrive\Desktop\UNI\7to cuatri\Estancias 2\aplicacion de veterinaria\VeterinariaPDF\VeterinariaPDF\bin\Debug\VeterinariaPDF.application
+C:\Users\diego\OneDrive\Desktop\UNI\7to cuatri\Estancias 2\aplicacion de veterinaria\VeterinariaPDF\VeterinariaPDF\obj\Debug\VeterinariaPDF.exe.manifest
+C:\Users\diego\OneDrive\Desktop\UNI\7to cuatri\Estancias 2\aplicacion de veterinaria\VeterinariaPDF\VeterinariaPDF\obj\Debug\VeterinariaPDF.application

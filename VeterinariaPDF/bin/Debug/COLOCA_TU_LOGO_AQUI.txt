@@ -1,0 +1,17 @@
+INSTRUCCIONES PARA AGREGAR EL LOGO:
+
+1. Copia tu imagen de logo en esta carpeta (bin\Debug\)
+2. Renombra tu imagen a uno de estos nombres:
+   - logo.png (recomendado)
+   - logo.jpg
+   - logo.jpeg
+
+3. ¡Listo! La aplicación automáticamente detectará y usará tu logo en todos los PDFs.
+
+NOTAS:
+- El logo se redimensionará automáticamente a 120 píxeles de ancho
+- Se recomienda usar una imagen con fondo transparente (PNG)
+- La imagen aparecerá en la parte superior de todos los documentos PDF
+
+EJEMPLO:
+Si tu logo se llama "mi_logo.png", simplemente renómbralo a "logo.png" y cópialo aquí.
