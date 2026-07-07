@@ -1,4 +1,6 @@
-<img src="banner.png" width="700" />
+<p align="center">
+  <img src="banner.png" alt="Banner Corazón Canino" width="800px">
+</p>
 
 # 🐾 Sistema de Registro de Mascotas y Propietarios - Veterinaria Corazón Canino
 
